@@ -1,2 +1,5 @@
-Flask
-pytest
+del Requirements.txt
+pip freeze > requirements.txt
+git add requirements.txt
+git commit -m "Fix: Add lowercase requirements.txt"
+git push
