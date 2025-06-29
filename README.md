@@ -10,8 +10,6 @@ A simple Python Flask-based REST API that allows users to add, view, update, and
 - **Framework**: Flask
 - **API Type**: REST
 - **Testing Tool**: Postman
-- **Optional**: Pytest for unit testing
-
 ---
 
 ##  Features
@@ -31,7 +29,6 @@ event-scheduler-system/
 ├── app.py # Main Flask API
 ├── utils.py # Helper functions and data handling
 ├── reminder.py # (Optional) Event reminders
-├── test_app.py # (Optional) Unit tests with Pytest
 ├── events.json # Stores all event data
 ├── requirements.txt # Dependencies
 └── README.md # Project instructions and examples
