@@ -24,7 +24,7 @@ A simple Python Flask-based REST API that allows users to add, view, update, and
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 event-scheduler-system/
 │
@@ -60,7 +60,7 @@ cd event-scheduler-system
 
     python app.py
     You should see output like:
-    Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+    Running on http://127.0.0.1:5000/ 
 
 ## API Endpoints (with Postman Examples)
 
@@ -130,21 +130,6 @@ cd event-scheduler-system
 ## License
 
   Licensed under the MIT License
----
-        ##  Next Steps
-
-        You’ve now:
-
-            Written working Python 3.x REST API using Flask  
-            Saved data with persistence  
-            Added usage examples and command outputs  
-            Uploaded the project to GitHub  
-            Documented everything in README
-
-            Let me know if you want to:
-            - Add recurring event logic
-            - Add background reminders with threading
-            - Deploy to the cloud (like Render or PythonAnywhere)
 
       
         
